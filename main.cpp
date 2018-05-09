@@ -6,7 +6,8 @@ using namespace std;
  
 int main()
 {
-	int a; int b;
+	int a; 
+	int b;
 cout << "Введите первое число";
 cin >> a;
 cout << "Введите второе число";
